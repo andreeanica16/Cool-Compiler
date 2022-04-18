@@ -1,6 +1,6 @@
 # Compiler for Cool language
 
-##Description
+## Description
 The compiler generates a MIPS program equivalent to the initial Cool program. This
 will be able to run in QtSpim or spim simulators.
 
